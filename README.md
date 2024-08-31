@@ -115,7 +115,7 @@ AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
    - Add items to the wishlist.
    - Validate the wishlist.
 
-3. **## Home and Wellness:**
+3. **Home and Wellness:**
    - Search for wellness products.
    - Add products to the cart.
    - Verify pricing and product details.
@@ -141,7 +141,7 @@ AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
 
    ```
 
-**## Reporting**
+**Reporting**
 
 - **Extent Reports:**
   - After the test execution, a detailed report is generated in the `test-output` folder.
@@ -161,7 +161,7 @@ AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
 - **Parallel Execution:** Configure TestNG for parallel execution of tests to reduce test execution time.
 - **CI/CD Integration:** Integrate with Jenkins for continuous integration and continuous deployment.
 
- 🚀 About Me
+## 🚀 About Me
 
 I have expertise in Selenium, Java, TestNG, and Maven. My focus is on building robust automation frameworks and ensuring comprehensive test coverage for web applications.
 
