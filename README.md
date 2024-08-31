@@ -72,21 +72,24 @@ The main objective of this project is to automate the navigation and purchasing 
 Naaptol_Automation/
 ├─ src/
 │  ├─ main/
-│  │  ├─ java/
-│  │  │  └─ com/
-│  │  │      └─ naaptol/
-│  │  │          └─ pages/
-│  │  │          └─ tests/
-│  │  │          └─ utils/
+│  │  │
+│  │  │
+│  │  │ 
+│  │  │     
+│  │  │   
+│  │  │
 │  ├─ test/
 │  │  ├─ java/
-│  │  │  └─ com/
-│  │  │      └─ naaptol/
-│  │  │          └─ tests/
+│  │  │  └─ naaptolPOM/
+│  │  │      └─ decore.java,brands.java,furniture.java etc.
+│  │  │  └─ runner/
+│  │  │      └─ decore.java,brands.java,furniture.java etc.
+│  │  │  └─ stepDefinations/
+│  │  │      └─ decore.java,brands.java,furniture.java etc.
 ├─ resources/
-│  ├─ config/
-│  │  └─ config.properties
-│  ├─ testng.xml
+│  ├─ naaptol/
+│  │  └─ shopping.feature,decore.feature,brands.feature,furniture.feature etc.
+│  ├─ config.properties
 ├─ pom.xml
 └─ README.md
 ```
@@ -140,27 +143,27 @@ AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
 
    ```
 
-## Reporting
+**## Reporting**
 
 - **Extent Reports:**
   - After the test execution, a detailed report is generated in the `test-output` folder.
   - Open the `ExtentReport.html` file in a browser to view the results.
-[Uploading ExtentReport.html…]()
 
-## Features Implemented
+
+**## Features Implemented**
 
 - **Page Object Model (POM):** Structured page classes for modular and maintainable code.
 - **Assertions:** Implemented assertions for validation.
 - **Screenshots:** Captured screenshots for failed test cases.
 - **Reporting:** Generated HTML reports using Extent Reports.
 
-## Future Enhancements
+**## Future Enhancements**
 
 - **Data-Driven Testing:** Implement data-driven testing using Apache POI to read test data from Excel files.
 - **Parallel Execution:** Configure TestNG for parallel execution of tests to reduce test execution time.
 - **CI/CD Integration:** Integrate with Jenkins for continuous integration and continuous deployment.
 
-## About Me
+**## About Me**
 
 I have expertise in Selenium, Java, TestNG, and Maven. My focus is on building robust automation frameworks and ensuring comprehensive test coverage for web applications.
 
