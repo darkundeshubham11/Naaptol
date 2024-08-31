@@ -90,7 +90,9 @@ Naaptol_Automation/
 ├─ pom.xml
 └─ README.md
 ```
+## Application Under Test 
 
+AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
 ### Key Folders and Files:
 
 - **pages/**: Contains Page Object Model (POM) classes.
@@ -128,15 +130,14 @@ Naaptol_Automation/
    - Use the following Maven command to execute the tests:
 
    ```bash
-   mvn clean test
+   mvn test
    ```
+## Attachments
+![BedsheetsSearch](https://github.com/user-attachments/assets/d9001e3b-4286-4979-87dd-8d2b0e24892f)
+![Decor Page Open](https://github.com/user-attachments/assets/50cc6821-140f-4fd4-9a1e-37b47782c065)
+![Covers Page Open](https://github.com/user-attachments/assets/4a4948a2-620e-4f88-83f1-547ed0543c80)
+![Decor](https://github.com/user-attachments/assets/27512a2a-15bb-47d0-b96a-07e8ce350a87)
 
-2. **Running Specific Test Suites:**
-   - Edit the `testng.xml` file to include or exclude specific tests.
-   - Use the following command to run a specific suite:
-
-   ```bash
-   mvn test -DsuiteXmlFile=testng.xml
    ```
 
 ## Reporting
@@ -144,6 +145,7 @@ Naaptol_Automation/
 - **Extent Reports:**
   - After the test execution, a detailed report is generated in the `test-output` folder.
   - Open the `ExtentReport.html` file in a browser to view the results.
+[Uploading ExtentReport.html…]()
 
 ## Features Implemented
 
