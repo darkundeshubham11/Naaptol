@@ -1,4 +1,5 @@
-Here's a README file tailored for your Naaptol project that involves Selenium, Maven, TestNG, and Extent Reports:
+
+![Naaptol_new_logo](https://github.com/user-attachments/assets/5de5183a-78fa-4e57-9772-ead7aae4c9ae)
 
 ---
 
@@ -48,7 +49,7 @@ The main objective of this project is to automate the navigation and purchasing 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/Naaptol-Automation.git
+   git clone https://github.com/darkundeshubham11/Naaptol.git
    ```
 
 2. **Import the Project:**
@@ -166,5 +167,3 @@ I have expertise in Selenium, Java, TestNG, and Maven. My focus is on building r
 If you have any feedback or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
 
 ---
-
-This README should provide a clear overview of your Naaptol project, including setup instructions, test scenarios, and other essential details.
