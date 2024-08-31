@@ -13,6 +13,7 @@ This project is focused on automating the Naaptol website using Selenium WebDriv
 - [Tech Stack](#tech-stack)
 - [Project Setup](#project-setup)
 - [Directory Structure](#directory-structure)
+- [Application Under Test](#Application-Under-Test)
 - [Test Scenarios](#test-scenarios)
 - [Execution](#execution)
 - [Reporting](#reporting)
@@ -73,10 +74,6 @@ Naaptol_Automation/
 ├─ src/
 │  ├─ main/
 │  │  │
-│  │  │
-│  │  │ 
-│  │  │     
-│  │  │   
 │  │  │
 │  ├─ test/
 │  │  ├─ java/
