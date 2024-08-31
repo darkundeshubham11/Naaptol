@@ -17,6 +17,7 @@ This project is focused on automating the Naaptol website using Selenium WebDriv
 - [Test Scenarios](#test-scenarios)
 - [Execution](#execution)
 - [Reporting](#reporting)
+- [Attachments](#Attachments)
 - [Features Implemented](#features-implemented)
 - [Future Enhancements](#future-enhancements)
 - [About Me](#about-me)
@@ -109,17 +110,17 @@ AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
    - Validate the cart contents.
    - Proceed to checkout.
 
-2. **Furniture:**
+2. **##Furniture:**
    - Browse and select furniture items.
    - Add items to the wishlist.
    - Validate the wishlist.
 
-3. **Home and Wellness:**
+3. **##Home and Wellness:**
    - Search for wellness products.
    - Add products to the cart.
    - Verify pricing and product details.
 
-4. **Brands:**
+4. **##Brands:**
    - Navigate to a specific brand.
    - Validate the list of products available under the brand.
    - Check the availability of filters.
@@ -147,25 +148,25 @@ AUT URL: [https://www.naaptol.com/](https://www.naaptol.com/)
   - Open the `ExtentReport.html` file in a browser to view the results.
 
 
-**## Features Implemented**
+**##Features Implemented**
 
 - **Page Object Model (POM):** Structured page classes for modular and maintainable code.
 - **Assertions:** Implemented assertions for validation.
 - **Screenshots:** Captured screenshots for failed test cases.
 - **Reporting:** Generated HTML reports using Extent Reports.
 
-**## Future Enhancements**
+**##Future Enhancements**
 
 - **Data-Driven Testing:** Implement data-driven testing using Apache POI to read test data from Excel files.
 - **Parallel Execution:** Configure TestNG for parallel execution of tests to reduce test execution time.
 - **CI/CD Integration:** Integrate with Jenkins for continuous integration and continuous deployment.
 
-**## About Me**
+**## 🚀 About Me**
 
 I have expertise in Selenium, Java, TestNG, and Maven. My focus is on building robust automation frameworks and ensuring comprehensive test coverage for web applications.
 
-## Feedback
+**## Feedback**
 
-If you have any feedback or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any feedback, please reach out to me at darkundeshubham11@gmail.com .
 
 ---
